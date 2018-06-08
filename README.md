@@ -8,6 +8,7 @@ This will provide you with:
     <li>Status Color/Category</li>
     <li>Rank</li>
     <li>A link to the issue</li>
+    <li>And everything in the normal CSV export</li>
     </ul>
 
 To use this, export the XML for the Jira issues you want in CSV.
