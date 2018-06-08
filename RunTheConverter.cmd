@@ -1,1 +1,1 @@
-powershell -executionpolicy bypass -sta .\JiraXMLtoCSV.ps1
+powershell -executionpolicy bypass -sta .\XMLToCSVConverter.ps1
