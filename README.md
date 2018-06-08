@@ -14,11 +14,12 @@ This will provide you with:
 To use this, export the XML for the Jira issues you want in CSV.
 
 Then download these files:
-    RunTheConverter.cmd - It's one line, it runs the powershell script in STA mode and by-passes security
-                          You can rename the RunTheConverter.cmd file
-    XMLToCSVConverter.ps1 - This is a PowerShell 2.0 script that opens a File-Picker window and parses XML
-                          into PSObjectes then opens a File-Saver window and saves them as a CSV file
-
+<ul>
+    <li>RunTheConverter.cmd - It's one line, it runs the powershell script in STA mode and by-passes security
+                          You can rename the RunTheConverter.cmd file</li>
+    <li>XMLToCSVConverter.ps1 - This is a PowerShell 2.0 script that opens a File-Picker window and parses XML
+                          into PSObjectes then opens a File-Saver window and saves them as a CSV file</li>
+</ul>
 Run the RunTheConverter.cmd file to use this tool.
 
 
