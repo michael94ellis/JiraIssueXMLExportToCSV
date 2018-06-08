@@ -1,6 +1,4 @@
 ############################################################
-### Created by: Michael Ellis, 6/6/18                    ###
-###------------------------------------------------------###
 ### The intended purpose of this script is to export     ###
 ###  comments from Jira as well as other fields that the ###
 ###  Jira OOTB application doesn't export for free       ###
