@@ -24,3 +24,11 @@ Run the RunTheConverter.cmd file to use this tool.
 
 
 This is still a work in progress.
+
+TO DO
+<ol>
+    <li>Parse Comments</li>
+    <li>Add Parent Link field</li>
+    <li>Add other fields</li>
+    <li>Optimize</li>
+    </ol>
