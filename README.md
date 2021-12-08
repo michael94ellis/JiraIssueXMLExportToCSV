@@ -21,6 +21,3 @@ Then download these files:
                           into PSObjectes then opens a File-Saver window and saves them as a CSV file</li>
 </ul>
 Run the RunTheConverter.cmd file to use this tool.
-
-
-This is still a work in progress.
