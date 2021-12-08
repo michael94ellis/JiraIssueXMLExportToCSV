@@ -24,9 +24,3 @@ Run the RunTheConverter.cmd file to use this tool.
 
 
 This is still a work in progress.
-
-TO DO
-<ol>
-    <li>Parse Comments</li>
-    <li>Optimize</li>
-</ol>
